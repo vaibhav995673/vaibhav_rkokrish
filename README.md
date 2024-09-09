@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3TS4qPvMpFsRzpi5egBBDghnc-G6sxT2kQ&s">
 
-- 🔭 I’m currently working on **Healthcare EMR Database**
+- 🔭 I’m currently working on **Healthcare EMR**
 
 - 🌱 I’m currently learning **Data Analyst/Data Science from Alma Better**
 
